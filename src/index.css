@@ -1,0 +1,108 @@
+
+.html{
+   
+    color: black;
+    background-color: gray;
+    margin-left: 100px;
+    padding: 20px;
+    margin-bottom: 500px;
+  
+}
+.tag{
+    color: #fff;
+}
+.css{
+   
+    color: black;
+    background-color: grey;
+    margin-left: 100px;
+    padding: 20px;
+    margin-bottom: 500px;
+   
+}
+.react{
+    
+    color: black;
+    background-color: grey;
+    margin-left: 100px;
+    padding: 20px;
+    margin-bottom: 500px;
+   
+}
+
+.langu{
+   
+    color: #fff;
+    height: 70px;
+    background-size: 75% 50%;
+    width: 100px;
+    text-align: left;
+    margin-left: 0%;
+}
+.head{
+    height: 90%;
+    width: 100%;
+    font-weight: bold;
+    justify-content: space-between;
+    text-align:center;
+    background:black;
+    color: white;
+    font-size: 40px;
+    border: 1px solid white;
+    
+}
+
+.side{
+    
+    width: 100%;
+    height: 110px;
+    text-align: left;
+    font-size: 90%;
+    border: 1px solid white;
+    
+
+}
+.go{
+    background-color: yellow;
+    
+    
+    
+}
+.clr{
+    color: #fff;
+    
+    
+}
+span{
+    color: black;
+    font-weight: bold;
+}
+.foot{
+    
+    font-weight: bold;
+    text-align:center;
+    color: white;
+    background-color: black;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+}
+.image1{
+    width: 70%;
+    margin: 1px auto;
+    display: block;
+
+}
+.image2{
+    
+    width: 50%;
+    margin: 1px auto;
+    display: block;
+}
+.image3{
+    width:50%;
+    margin: 1px auto;
+    display: block;
+}
